@@ -38,7 +38,7 @@ Atualmente o multiplayer é mais do que necessário para que se explore ainda ma
 
 # Publicação
 
-O projeto visa ser desenvolvido para atingir todos os públicos, com isso pretende-se coexistir em duas versões. Uma gratuita, com algumas limitações e outra paga com muitos outros recursos. 
+O projeto visa ser desenvolvido para atingir todos os públicos, com isso pretende-se coexistir em duas versões. Mobile, com poucos recursos diferentes e uma versão para desktop, em tuda sua complitude.
 ## Do professor para o aluno
 
 Sua escola poderá usar o projeto para praticar o ensino de astronomia e criar uma atmosfera de interesse muito maior do que simplesmente a visualização nos livros didáticos. Por isso um modo educativo do jogo, está sendo pensado e desenvolvido para que nenhum detalhe fique de fora.
