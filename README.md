@@ -3,7 +3,7 @@
 # Bem vindo ao Astrolab!
 
 Olá! Este é o projeto Astrolab um **jogo** capaz de trazer toda a dinâmica dos assuntos cosmológicos e astronômicos para a palma da sua mão. Esse é um projeto que ainda está em desenvolvimento e conta com recursos ainda em fase inicial de prototipagem. 
-Esse projeto está ligado a bolsa Piblic de iniciação científica em estudos astronômicos voltados para o aprendizado em sala de aula, na Universidade Federal de Lavras. 
+Esse projeto está vinculado e conta com recursos da bolsa PIBLIC de iniciação científica em estudos astronômicos voltados para o aprendizado em sala de aula, da Universidade Federal de Lavras. 
 
 # Engine
 
@@ -11,7 +11,7 @@ O projeto é desenvolvido em cima da motor gráfico **Unity 3D**, com a adição
 
 # Features
 
-Observação: Nem todos os recursos estarão presentes na versão final do jogo.
+Observação: Nem todos os recursos estarão presentes na versão inicial do jogo.
 
 ## Criar e simular o universo
 Com a estratégia de desenvolver um sistema de criação, voltado para simular os efeitos da física realista, será possível simular e criar o seu próprio universo, repleto de planetas, estrelas, nebulosas, galáxias e até buracos negros.
